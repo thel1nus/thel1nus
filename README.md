@@ -114,3 +114,9 @@ PCPP - [Certified Professional in Python Programming](https://pythoninstitute.or
 Linux + - [Comptia Linux+](ia.org/certifications/linux)
 OSCP - [Offensive Security Certified Professional](https://www.offensive-security.com/pwk-oscp/)
 
+
+
+[sql]: https://www.mysql.com/
+[vim]: https://www.vim.org/
+[atom]: https://atom.io/
+
