@@ -95,9 +95,10 @@ About me
 .
 .
 
+-------------
 
 ### Goals
--------------
+
 #### Certifications
 
 - CCNP - [Cisco Certified Network Professional](https://learningnetwork.cisco.com/s/ccnp-enterprise)
