@@ -89,7 +89,8 @@ About me
 [sql]: https://www.mysql.com/
 [vim]: https://www.vim.org/
 [atom]: https://atom.io/
-
+.
+.
 ###Goals
 -------------
 #### Certifications
