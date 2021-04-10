@@ -15,10 +15,12 @@ About me
 [<img align="left" alt="GitHub" width="42px" src="https://cdn.discordapp.com/attachments/830468945571086346/830469038269399040/twitter.png" 
 />][twitter]
 
+[<img align="left" alt="GitHub" width="42px" src="https://cdn.discordapp.com/attachments/830468945571086346/830469041885151262/hackthebox.png"
+/>][hackthebox]
+
 [<img align="left" alt="GitHub" width="42px" src="https://cdn.discordapp.com/attachments/830468945571086346/830469039146926110/tryhackme.png" 
 />][tryhackme]
 
-[<img align="left" alt="GitHub" width="42px" src="https://cdn.discordapp.com/attachments/830468945571086346/830469041885151262/hackthebox.png" 
 #### Technologies
 
 [<img align="left" alt="Linux Mint" width="52px" src="https://cdn.discordapp.com/attachments/830468945571086346/830475038032789544/mint.png"
