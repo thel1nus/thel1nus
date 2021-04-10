@@ -26,6 +26,12 @@ About me
 .
 .
 .
+.
+.
+.
+.
+.
+.
 
 
 ### Technologies
