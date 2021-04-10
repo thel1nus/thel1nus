@@ -21,6 +21,11 @@ About me
 [<img align="left" alt="GitHub" width="42px" src="https://cdn.discordapp.com/attachments/830468945571086346/830469039146926110/tryhackme.png" 
 />][tryhackme]
 
+.
+.
+.
+.
+.
 
 
 ### Technologies
