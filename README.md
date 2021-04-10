@@ -9,78 +9,60 @@ About me
 -------
 ####Contact me!
 
-[<img align="left" alt="Linktree" width="52px" src="https://cdn.discordapp.com/attachments/830468945571086346/830469238958850088/linktree.png" />]
-[linktree]
+[<img align="left" alt="Linktree" width="52px" src="https://cdn.discordapp.com/attachments/830468945571086346/830469238958850088/linktree.png" />][linktree]
 
-[<img align="left" alt="GitHub" width="32px" src="https://cdn.discordapp.com/attachments/830468945571086346/830469045320548412/github.png" />]
-[github]
+[<img align="left" alt="GitHub" width="32px" src="https://cdn.discordapp.com/attachments/830468945571086346/830469045320548412/github.png" />][github]
 
-[<img align="left" alt="GitHub" width="42px" src="https://cdn.discordapp.com/attachments/830468945571086346/830469038269399040/twitter.png" />]
-[twitter]
+[<img align="left" alt="GitHub" width="42px" src="https://cdn.discordapp.com/attachments/830468945571086346/830469038269399040/twitter.png" />][twitter]
 
-[<img align="left" alt="GitHub" width="42px" src="https://cdn.discordapp.com/attachments/830468945571086346/830469039146926110/tryhackme.png" />]
-[tryhackme]
+[<img align="left" alt="GitHub" width="42px" src="https://cdn.discordapp.com/attachments/830468945571086346/830469039146926110/tryhackme.png" />][tryhackme]
 
 [<img align="left" alt="GitHub" width="42px" src="https://cdn.discordapp.com/attachments/830468945571086346/830469041885151262/hackthebox.png
-" />]
-[hackthebox]
+" />][hackthebox]
  .
  
 -------------
 ####Technologies
 
 [<img align="left" alt="Linux Mint" width="52px" src="https://cdn.discordapp.com/attachments/830468945571086346/830475038032789544/mint.png
-" />]
-[linux mint] 
+" />][linux mint] 
 
 [<img align="left" alt="Parrot OS" width="42px" src="https://cdn.discordapp.com/attachments/830468945571086346/830475036326101002/parrotos.png
-" />]
-[parrot os]
+" />][parrot os]
 
 [<img align="left" alt="Parrot OS" width="44px" src="https://cdn.discordapp.com/attachments/830468945571086346/830475039467110450/kali.png
-" />]
-[kali]
+" />][kali]
 
 [<img align="left" alt="Bash" width="35px" src="https://cdn.discordapp.com/attachments/830468945571086346/830475047230898196/bash.png
-" />]
-[bash]
+" />][bash]
 
-[<img align="left" alt="Python" width="35px" src="https://cdn.discordapp.com/attachments/830468945571086346/830475036531097701/python.png
-" />]
-[python]
+[<img align="left" alt="Python" width="35px" src="https://cdn.discordapp.com/attachments/830468945571086346/830475036531097701/python.png" 
+/>][python]
 
 
 [<img align="left" alt="Cisco" width="52px" src="https://cdn.discordapp.com/attachments/830468945571086346/830475045804441691/cisco.png
-" />]
-[cisco]
+" />][cisco]
 
 [<img align="left" alt="Javascript" width="50px" src="https://cdn.discordapp.com/attachments/830468945571086346/830475040431800350/js.png
-" />]
-[js]
+" />][js]
 
 [<img align="left" alt="C++" width="42px" src="https://cdn.discordapp.com/attachments/830468945571086346/830475045335203900/cpp.png
-" />]
-[c++]
+" />][c++]
 
 [<img align="left" alt="Git" width="42px" src="https://cdn.discordapp.com/attachments/830468945571086346/830475043736911899/git.png
-" />]
-[git]
+" />][git]
 
 [<img align="left" alt="Html" width="42px" src="https://cdn.discordapp.com/attachments/830468945571086346/830475042142945291/html.png
-" />]
-[html]
+" />][html]
 
 [<img align="left" alt="Sql" width="32" src="https://cdn.discordapp.com/attachments/830468945571086346/830491284375994449/sql.png
-" />]
-[sql]
+" />][sql]
 
 [<img align="left" alt="Atom" width="44x" src="https://cdn.discordapp.com/attachments/830468945571086346/830491281243111424/atom.png
-" />]
-[atom]
+" />][atom]
 
 [<img align="left" alt="Vim" width="42px" src="https://cdn.discordapp.com/attachments/830468945571086346/830491286045327420/vim.png
-" />]
-[vim]
+" />][vim]
 
 
 [github]: https://github.com/ITMatt1
