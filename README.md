@@ -26,7 +26,7 @@ About me
  .
  
 -------------
-####Technologies
+#### Technologies
 
 [<img align="left" alt="Linux Mint" width="52px" src="https://cdn.discordapp.com/attachments/830468945571086346/830475038032789544/mint.png"
  />][linux mint] 
@@ -92,7 +92,7 @@ About me
 
 ###Goals
 -------------
-####Certifications
+#### Certifications
 
 CCNP - [Cisco Certified Network Professional](https://learningnetwork.cisco.com/s/ccnp-enterprise)
 CEH - [Certified Ethical Hacker](https://www.eccouncil.org/programs/certified-ethical-hacker-ceh/)
