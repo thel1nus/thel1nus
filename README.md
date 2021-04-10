@@ -9,7 +9,7 @@ About me
 -------
 #### Contact me!
 
-[<img align="left" alt="Linktree" width="52px" src="https://cdn.discordapp.com/attachments/830468945571086346/830469238958850088/linktree.png" 
+[<img align="left" alt="Linktree" width="42px" src="https://cdn.discordapp.com/attachments/830468945571086346/830469238958850088/linktree.png" 
 />][linktree]
 
 [<img align="left" alt="GitHub" width="42px" src="https://cdn.discordapp.com/attachments/830468945571086346/830469038269399040/twitter.png" 
