@@ -89,17 +89,18 @@ About me
 [sql]: https://www.mysql.com/
 [vim]: https://www.vim.org/
 [atom]: https://atom.io/
-.
-.
-###Goals
+- 
+- 
+- 
+### Goals
 -------------
 #### Certifications
 
-CCNP - [Cisco Certified Network Professional](https://learningnetwork.cisco.com/s/ccnp-enterprise)
-CEH - [Certified Ethical Hacker](https://www.eccouncil.org/programs/certified-ethical-hacker-ceh/)
-PCPP - [Certified Professional in Python Programming](https://pythoninstitute.org/certification/pcpp-certification-professional/)
-Linux + - [Comptia Linux+](ia.org/certifications/linux)
-OSCP - [Offensive Security Certified Professional](https://www.offensive-security.com/pwk-oscp/)
+- CCNP - [Cisco Certified Network Professional](https://learningnetwork.cisco.com/s/ccnp-enterprise)
+- CEH - [Certified Ethical Hacker](https://www.eccouncil.org/programs/certified-ethical-hacker-ceh/)
+- PCPP - [Certified Professional in Python Programming](https://pythoninstitute.org/certification/pcpp-certification-professional/)
+- Linux + - [Comptia Linux+](ia.org/certifications/linux)
+- OSCP - [Offensive Security Certified Professional](https://www.offensive-security.com/pwk-oscp/)
 
 
 
