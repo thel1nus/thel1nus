@@ -22,15 +22,7 @@ About me
 />][tryhackme]
 
 
-
-.
-.
-.
-.
-.
-
-
-### Technologies
+###    Technologies
 
 [<img align="left" alt="Linux Mint" width="52px" src="https://cdn.discordapp.com/attachments/830468945571086346/830475038032789544/mint.png"
  />][linux mint] 
