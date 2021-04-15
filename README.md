@@ -5,7 +5,7 @@ About me
 - 🕵️‍♂️ I'm very interested in offensive security.
 - ☁️ Networking is fun! Going for CCNA soon.
 - 🖥 Linux is love of my life! I'm using Debian based distributions.
-- 💬 Most active on Discord (ITMatt#0113)
+- 💬 Most active on Discord (Mtay#0113)
 -------
 #### Contact me!
 
