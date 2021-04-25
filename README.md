@@ -1,19 +1,15 @@
-### Hi there I'm [Starlight](https://linktr.ee/ITMatt) 👋
+### Hi there I'm [Malware Borec!](https://github.com/Malware-borec) 👋
 
 About me
 -------
-- 🕵️‍♂️ I'm very interested in offensive security.
+- 🕵️‍♂️ I'm very interested in defensive security.
 - ☁️ Networking is fun! Going for CCNA soon.
-- 🖥 Linux is love of my life! I'm using Debian based distributions.
-- 💬 Most active on Discord (Mtay#0113)
+- 🖥 Using Kali Linux and other Debian based distributions.
+- 🔎 Security analyst / Malware analyst
+- 🇨🇿 From Czech republic. 
 -------
-#### Contact me!
+#### Socials
 
-[<img align="left" alt="Linktree" width="42px" src="https://cdn.discordapp.com/attachments/830468945571086346/830469238958850088/linktree.png" 
-/>][linktree]
-
-[<img align="left" alt="GitHub" width="42px" src="https://cdn.discordapp.com/attachments/830468945571086346/830469038269399040/twitter.png" 
-/>][twitter]
 
 [<img align="left" alt="GitHub" width="42px" src="https://cdn.discordapp.com/attachments/830468945571086346/830469041885151262/hackthebox.png"
 />][hackthebox]
@@ -29,22 +25,19 @@ About me
 #### Technologies
 
 
-
-[<img align="left" alt="Linux Mint" width="52px" src="https://cdn.discordapp.com/attachments/830468945571086346/830475038032789544/mint.png"
- />][linux mint] 
-
-[<img align="left" alt="Parrot OS" width="42px" src="https://cdn.discordapp.com/attachments/830468945571086346/830475036326101002/parrotos.png"
-/>][parrot os]
-
 [<img align="left" alt="Parrot OS" width="44px" src="https://cdn.discordapp.com/attachments/830468945571086346/830475039467110450/kali.png"
 />][kali]
+
+
+[<img align="left" alt="Parrot OS" width="44px" src="https://cdn.discordapp.com/attachments/830468945571086346/835950311109296218/powershell.png"
+/>][powershell]
+
 
 [<img align="left" alt="Bash" width="35px" src="https://cdn.discordapp.com/attachments/830468945571086346/830475047230898196/bash.png"
 />][bash]
 
 [<img align="left" alt="Python" width="35px" src="https://cdn.discordapp.com/attachments/830468945571086346/830475036531097701/python.png" 
 />][python]
-
 
 [<img align="left" alt="Cisco" width="52px" src="https://cdn.discordapp.com/attachments/830468945571086346/830475045804441691/cisco.png"
  />][cisco]
@@ -64,18 +57,14 @@ About me
 [<img align="left" alt="Sql" width="32" src="https://cdn.discordapp.com/attachments/830468945571086346/830491284375994449/sql.png"
 />][sql]
 
-[<img align="left" alt="Atom" width="44x" src="https://cdn.discordapp.com/attachments/830468945571086346/830491281243111424/atom.png"
-/>][atom]
-
 [<img align="left" alt="Vim" width="42px" src="https://cdn.discordapp.com/attachments/830468945571086346/830491286045327420/vim.png"
 />][vim]
 
 
-[github]: https://github.com/ITMatt1
-[twitter]: https://twitter.com/ITMatt6
-[linktree]: https://linktr.ee/ITMatt
+[github]: https://github.com/Malware-Borec
+
 [hackthebox]: https://app.hackthebox.eu/users/533269
-[tryhackme]: https://tryhackme.com/p/ITMatt
+[tryhackme]: https://tryhackme.com/p/Crypt0n9
 
 
 [linux mint]: https://linuxmint.com/
@@ -103,14 +92,17 @@ About me
 #### Certifications
 
 - CCNP - [Cisco Certified Network Professional](https://learningnetwork.cisco.com/s/ccnp-enterprise)
-- CEH - [Certified Ethical Hacker](https://www.eccouncil.org/programs/certified-ethical-hacker-ceh/)
-- PCPP - [Certified Professional in Python Programming](https://pythoninstitute.org/certification/pcpp-certification-professional/)
-- Linux + - [Comptia Linux+](ia.org/certifications/linux)
-- OSCP - [Offensive Security Certified Professional](https://www.offensive-security.com/pwk-oscp/)
+- CCIE - [Cisco Certified Internetwork Expert](https://www.cisco.com/c/en/us/training-events/training-certifications/certifications/expert/ccie-security-v2.html)
+- CCNP Security - [Cisco Certified Professional Security](https://www.cisco.com/c/en/us/training-events/training-certifications/certifications/professional/ccnp-security-v2.html)
+- CySA+ - [Cybersecurity Analyst](https://www.comptia.org/certifications/cybersecurity-analyst)
+- Linux+ - [Comptia Linux+](https://www.comptia.org/certifications/linux)
+- Security+ - [Comptia Security +](https://www.comptia.org/certifications/security)
+- CCCA - [Cisco Certified CyberOps Associate](https://www.cisco.com/c/en/us/training-events/training-certifications/certifications/associate/cyberops-associate.html)
+
 
 
 
 [sql]: https://www.mysql.com/
 [vim]: https://www.vim.org/
 [atom]: https://atom.io/
-
+[powershell]: https://cs.wikipedia.org/wiki/PowerShell
