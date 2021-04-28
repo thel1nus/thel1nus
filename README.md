@@ -39,14 +39,17 @@ About me
 [<img align="left" alt="Python" width="35px" src="https://cdn.discordapp.com/attachments/830468945571086346/830475036531097701/python.png" 
 />][python]
 
-[<img align="left" alt="Cisco" width="52px" src="https://cdn.discordapp.com/attachments/830468945571086346/830475045804441691/cisco.png"
- />][cisco]
-
 [<img align="left" alt="Javascript" width="50px" src="https://cdn.discordapp.com/attachments/830468945571086346/830475040431800350/js.png"
 />][js]
 
+[<img align="left" alt="Vim" width="42px" src="https://cdn.discordapp.com/attachments/830468945571086346/836860791272767508/c-logo-png-11.png"
+/>][C]
+
 [<img align="left" alt="C++" width="42px" src="https://cdn.discordapp.com/attachments/830468945571086346/830475045335203900/cpp.png"
 />][c++]
+
+[<img align="left" alt="C++" width="42px" src="https://cdn.discordapp.com/attachments/830468945571086346/830475036531097701/python.png"
+/>][python]
 
 [<img align="left" alt="Git" width="42px" src="https://cdn.discordapp.com/attachments/830468945571086346/830475043736911899/git.png"
 />][git]
@@ -60,6 +63,8 @@ About me
 [<img align="left" alt="Vim" width="42px" src="https://cdn.discordapp.com/attachments/830468945571086346/830491286045327420/vim.png"
 />][vim]
 
+[<img align="left" alt="Cisco" width="52px" src="https://cdn.discordapp.com/attachments/830468945571086346/830475045804441691/cisco.png"
+ />][cisco]
 
 [github]: https://github.com/Malware-Borec
 
@@ -80,7 +85,7 @@ About me
 [sql]: https://www.mysql.com/
 [vim]: https://www.vim.org/
 [atom]: https://atom.io/
-
+[C]: https://en.wikipedia.org/wiki/C_(programming_language)
 
 .
 .
