@@ -2,10 +2,10 @@
 
 About me
 -------
-- 🕵️‍♂️ I'm very interested in defensive security.
+- 🕵️‍♂️ I'm very interested in offensive security.
 - ☁️ Networking is fun! Going for CCNA soon.
 - 🖥 Using Kali Linux and other Debian based distributions.
-- 🔎 Security analyst / Malware analyst
+- 👨‍💻  Penetration tester / Ethical Hacker
 - 🇨🇿 From Czech republic. 
 -------
 #### Socials
@@ -91,18 +91,6 @@ About me
 .
 
 -------------
-
-### Goals
-
-#### Certifications
-
-- CCNP - [Cisco Certified Network Professional](https://learningnetwork.cisco.com/s/ccnp-enterprise)
-- CCIE - [Cisco Certified Internetwork Expert](https://www.cisco.com/c/en/us/training-events/training-certifications/certifications/expert/ccie-security-v2.html)
-- CCNP Security - [Cisco Certified Professional Security](https://www.cisco.com/c/en/us/training-events/training-certifications/certifications/professional/ccnp-security-v2.html)
-- CySA+ - [Cybersecurity Analyst](https://www.comptia.org/certifications/cybersecurity-analyst)
-- Linux+ - [Comptia Linux+](https://www.comptia.org/certifications/linux)
-- Security+ - [Comptia Security +](https://www.comptia.org/certifications/security)
-- CCCA - [Cisco Certified CyberOps Associate](https://www.cisco.com/c/en/us/training-events/training-certifications/certifications/associate/cyberops-associate.html)
 
 
 
