@@ -33,7 +33,7 @@ About me
 [<img align="left" alt="Bash" width="35px" src="https://cdn.discordapp.com/attachments/830468945571086346/830475047230898196/bash.png"
 />][bash]
 
-[<img align="left" alt="Python" width="35px" src="https://cdn.discordapp.com/attachments/830468945571086346/830475036531097701/python.png" 
+[<img align="left" alt="Python" width="39px" src="https://cdn.discordapp.com/attachments/830468945571086346/830475036531097701/python.png" 
 />][python]
 
 [<img align="left" alt="Javascript" width="50px" src="https://cdn.discordapp.com/attachments/830468945571086346/830475040431800350/js.png"
@@ -41,9 +41,6 @@ About me
 
 [<img align="left" alt="Vim" width="42px" src="https://cdn.discordapp.com/attachments/830468945571086346/836860791272767508/c-logo-png-11.png"
 />][C]
-
-[<img align="left" alt="C++" width="42px" src="https://cdn.discordapp.com/attachments/830468945571086346/830475036531097701/python.png"
-/>][python]
 
 [<img align="left" alt="Git" width="42px" src="https://cdn.discordapp.com/attachments/830468945571086346/830475043736911899/git.png"
 />][git]
