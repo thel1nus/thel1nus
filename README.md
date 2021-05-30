@@ -1,4 +1,4 @@
-### Hi there I'm [Nathan Bash!](https://github.com/Nathan-Bash) 👋
+### Hi there I'm [Ben](https://github.com/b3n1337) 👋
 
 About me
 -------
@@ -63,7 +63,7 @@ About me
 
 [github]: https://github.com/Nathan-Bash/
 [burpsuite]: https://portswigger.net/burp
-[tryhackme]: https://tryhackme.com/p/4N637
+[tryhackme]: https://tryhackme.com/p/ben1337
 [metasploit]: https://www.metasploit.com/
 
 [linux mint]: https://linuxmint.com/
