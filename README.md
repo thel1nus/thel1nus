@@ -3,7 +3,7 @@
 About me
 -------
 - 🕵️‍♂️ I'm very interested in offensive security.
-- 🖥 Using Kali Linux and other Debian based distributions.
+- 🖥 Using ParrotOS and other Debian based distributions.
 - 👨‍💻  Penetration tester / Ethical Hacker
 - 🇨🇿 From Czech republic. 
 - 🚩 Ctf player
