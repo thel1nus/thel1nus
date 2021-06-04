@@ -1,4 +1,4 @@
-### Hi there I'm [Ben](https://github.com/b3n1337) 👋
+### Hi there I'm [Linus](https://github.com/thel1nus) 👋
 
 About me
 -------
